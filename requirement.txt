@@ -1,0 +1,7 @@
+EasyProcess==0.3
+entrypoint2==0.2.3
+mss==6.1.0
+Pillow==8.1.0
+pynput==1.7.2
+pyscreenshot==2.3
+six==1.15.0
